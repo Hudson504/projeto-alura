@@ -5,6 +5,7 @@ let tentativas = 1;
 
 // adicionando um comentário para testar se está tudo certo com o https também na hora de dar o commit e push
 // mais uma mudança para testar se token foi registrado com sucesso
+// teste
 
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
