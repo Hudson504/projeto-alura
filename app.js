@@ -3,6 +3,8 @@ let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
+// adicionando um comentário para testar se está tudo certo com o https também na hora de dar o commit e push
+
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
     campo.innerHTML = texto;
