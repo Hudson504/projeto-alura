@@ -7,6 +7,8 @@ let tentativas = 1;
 // mais uma mudança para testar se token foi registrado com sucesso
 // teste
 
+
+// teseteojhfdoashdpah
 // teste pasta ssh
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
